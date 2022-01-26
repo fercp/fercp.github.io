@@ -7,7 +7,7 @@
     </information>
     <resources>
         <j2se version="17+"/>
-        <jar href="jnlp.jar" main="true" version="4.0-SNAPSHOT"/>
+        <jar href="jnlp.jar" main="true" version="5.0-SNAPSHOT"/>
         <property name="jnlp.versionEnabled" value="true"/>
     </resources>
     <security>
