@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+"
-      codebase="https://borisdaich.github.io/vz-public-apps/">
+      codebase="https://fercp.github.io/">
     <information>
         <title>Hello</title>
         <vendor>Example</vendor>
